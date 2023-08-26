@@ -1,5 +1,5 @@
 # School-Assignments
-Welcome to the School C++ Programs Repository! This repository contains a collection of C++ programs that I have worked on during my time at Kenya Coast National Poly.
+Welcome to my School-Assignments C++ Programs Repository! This repository contains a collection of C++ programs that I have worked on during my time at Kenya Coast National Poly.
 These programs cover various concepts in C++ programming and are meant to showcase my learning and skills.
 
 ## Usage
