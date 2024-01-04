@@ -9,11 +9,4 @@ After cloning the repository and navigating to its directory, you can compile an
 1. Compile a program
 2. Run the compiled program
 
-## Contributing
 
-If you'd like to contribute to this repository by adding new programs, fixing bugs, or improving existing programs, please follow these steps:
-
-1. Fork this repository.
-2. Create a new branch for your changes:
-3. Commit your changes and push them to your fork.
-4. Create a pull request to this repository's `main` branch.
